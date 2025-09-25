@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Storefront",
+  "description": "A modern e-commerce storefront application built with React and Tailwind CSS, featuring AI-powered product description generation and a simulated Razorpay payment gateway.",
+  "requestFramePermissions": []
+}
