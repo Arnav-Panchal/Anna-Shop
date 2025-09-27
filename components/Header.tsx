@@ -32,7 +32,7 @@ const Header: React.FC = () => {
                 <div className="flex items-center justify-between h-16">
                     <div className="flex-shrink-0">
                         <Link to="/" className="text-2xl font-bold text-gray-800 hover:text-blue-500 transition">
-                            Gemini Store
+                            Super Store
                         </Link>
                     </div>
                     <nav className="hidden md:flex items-center md:space-x-8">
